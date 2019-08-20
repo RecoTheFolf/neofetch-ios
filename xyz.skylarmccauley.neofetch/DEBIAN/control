@@ -1,0 +1,12 @@
+Package: xyz.skylarmccauley.neofetch
+Name: neofetch
+Version: 0.3
+Depends: gawk
+Architecture: iphoneos-arm
+Description: Command Line system information tool for iOS
+Maintainer: TheHacker
+Homepage: https://skylarmccauley.xyz/
+Depiction: http://apt.skylarmccauley.xyz/depic/xyz.skylarmccauley.neofetch/
+SileoDepiction: https://apt.skylarmccauley.xyz/depic/xyz.skylarmccauley.neofetch/sileo.json
+Author: TheHacker
+Section: Utilities
