@@ -1,6 +1,6 @@
 Package: xyz.skylarmccauley.neofetch
 Name: neofetch
-Version: 0.3
+Version: 0.4
 Depends: gawk
 Architecture: iphoneos-arm
 Description: Command Line system information tool for iOS
